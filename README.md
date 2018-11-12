@@ -1,6 +1,6 @@
 # OTA- ESP826-Espota-Standalone
   
-Version of the tool in standalone mode for Windows. Unzip the archive into a directory. Then start the espota.exe file with the same arguments.
+Version of the tool in standalone mode for Windows. Unzip the archive into a directory. Then start the espota.exe file with the same arguments as for espota.py.
 Examples:
 For the file spiffs.bin
 
@@ -15,7 +15,7 @@ For the program file ino.bin
     espota.exe ota -i 192.168.1.20 -f C:\Users\CHRIST~1\AppData\Local\Temp\arduino_build_643706/esp8266_web_Alexa.ino.bin --auth=admin -r
     
 Version de l'outil en mode autonome pour Windows.
-Décompressez l'archive dans un répertoire. Puis lancer le fichier espota.exe avec les même arguments.
+Décompressez l'archive dans un répertoire. Puis lancer le fichier espota.exe avec les même arguments que pour espota.py.
 Exemples:
 Pour le fichier spiffs.bin
 
