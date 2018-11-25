@@ -36,6 +36,9 @@ Pour le fichier programme ino.bin.
 Graphique  version of the tool in standalone mode for Windows. Unzip the archive espotaGui.zip into a directory. Then start the EspotaGui.exe.
 
 Version graphique de l'outil en mode autonome pour Windows.
+
 Décompressez l'archive espotaGui.zip dans un répertoire. Puis lancer le fichier EspotaGui.exe
+
 ![](https://github.com/christophe94700/OTA-ESP826-Espota-Standalone/blob/master/EspotaGuiEN.PNG)
+
 ![](https://github.com/christophe94700/OTA-ESP826-Espota-Standalone/blob/master/EspotaGuiFR.PNG)
