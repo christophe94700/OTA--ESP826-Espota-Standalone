@@ -42,3 +42,6 @@ Décompressez l'archive espotaGui.zip dans un répertoire. Puis lancer le fichie
 ![](https://github.com/christophe94700/OTA-ESP826-Espota-Standalone/blob/master/EspotaGuiEN.PNG)
 
 ![](https://github.com/christophe94700/OTA-ESP826-Espota-Standalone/blob/master/EspotaGuiFR.PNG)
+
+Another directly executable version : EspotaGui.exe.
+Une autre version directement exécutable: EspotaGui.exe.
